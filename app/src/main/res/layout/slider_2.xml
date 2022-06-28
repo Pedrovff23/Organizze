@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <ImageView
+        android:id="@+id/imagemDois"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/dois"/>
+
+    <TextView
+        android:id="@+id/textDesc2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Saiba para onde está indo seu dinheiro"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:layout_below="@id/imagemDois"
+        android:layout_centerInParent="true"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Categorizando seus lançamentos e vendo o\ndestino de cada centavos"
+        android:textColor="@color/black"
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/textDesc2"
+        android:layout_centerInParent="true"
+        tools:ignore="HardcodedText" />
+
+</RelativeLayout>

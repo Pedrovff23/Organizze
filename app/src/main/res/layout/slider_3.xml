@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <ImageView
+        android:id="@+id/imagemTres"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/tres"/>
+
+    <TextView
+        android:id="@+id/textDesc3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nunca mais esqueca de\n pagar suas contas"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:layout_marginTop="20dp"
+        android:layout_below="@id/imagemTres"
+        android:layout_centerInParent="true"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Receba alertas quando quiser"
+        android:textColor="@color/black"
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/textDesc3"
+        android:layout_centerInParent="true"
+        tools:ignore="HardcodedText" />
+
+</RelativeLayout>

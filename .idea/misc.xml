@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/color_button.xml" value="0.288" />
+        <entry key="app/src/main/res/drawable/cursor_drawable.xml" value="0.288" />
+        <entry key="app/src/main/res/drawable/floating_menu_custom.xml" value="0.288" />
+        <entry key="app/src/main/res/drawable/ic_add_black.xml" value="0.288" />
+        <entry key="app/src/main/res/drawable/ic_password.xml" value="0.288" />
+        <entry key="app/src/main/res/drawable/ic_person.xml" value="0.288" />
+        <entry key="app/src/main/res/drawable/ic_visibility.xml" value="0.288" />
+        <entry key="app/src/main/res/drawable/shadow.xml" value="0.288" />
+        <entry key="app/src/main/res/layout-v21/activity_cadastrar.xml" value="0.30842391304347827" />
+        <entry key="app/src/main/res/layout/activity_cadastrar.xml" value="0.30720720720720723" />
+        <entry key="app/src/main/res/layout/activity_content_principal.xml" value="0.30720720720720723" />
+        <entry key="app/src/main/res/layout/activity_despesas.xml" value="0.35520833333333335" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.30842391304347827" />
+        <entry key="app/src/main/res/layout/activity_principal.xml" value="0.30720720720720723" />
+        <entry key="app/src/main/res/layout/activity_receitas.xml" value="0.35520833333333335" />
+        <entry key="app/src/main/res/layout/recycler_view_movimentacao.xml" value="0.30720720720720723" />
+        <entry key="app/src/main/res/layout/slider_1.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/slider_2.xml" value="0.24094202898550723" />
+        <entry key="app/src/main/res/layout/slider_3.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/slider_4.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/slider_5_cadastro.xml" value="0.33" />
+        <entry key="app/src/main/res/menu/menu_principal.xml" value="0.30720720720720723" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
