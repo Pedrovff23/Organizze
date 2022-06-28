@@ -7,7 +7,7 @@ Esse App auxilia na finança pessoal, o principal objetivo é controlar os ganho
 
 # Funcionalidades usada 
 
-Esse projeto aplica algumas funcionalidades com por exemplo o Firebase utilizando o serviço de autenticação e o realtime Database, foi utilizada algumas biblioteca
+Esse projeto aplica algumas funcionalidades com por exemplo o Firebase utilizando o serviço de autenticação e o Realtime Database, foram consumidas algumas bibliotecas
 para auxiliar no desenvolvimento como a SwipeDecorator e o calendário material-calendarview.
 
 # Funcionamento do Organizze Clone
